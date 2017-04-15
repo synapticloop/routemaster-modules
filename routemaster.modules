@@ -1,0 +1,14 @@
+#
+# Herein lies a list of routemaster modules
+#
+# Any line that starts with a '#' character, or is blank will be ignored
+#
+#
+# The format is tab delimited list of modules which are available, with the 
+# following attributes
+# <module_name>	<location>	<description>
+
+synapticloop-example	https://github.com/synapticloop/routemaster-module-example	This is an example module that provides an easy way to get started in writing modules
+synapticloop-templar-handler	https://github.com/synapticloop/routemaster-module-templar-handler/releases/download/1.1.0/routemaster-module-templar-handler-1.1.0.jar	This provides templar templating language rendering and inludes for the routemaster server (see https://synapticloop.github.io/templar/ for documentation)
+synapticloop-static-file-lister	https://github.com/synapticloop/routemaster-module-static-file-lister	This provides a web interface to a static site listing
+

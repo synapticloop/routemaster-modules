@@ -1,0 +1,9 @@
+repositories {
+	mavenLocal()
+	mavenCentral()
+	jcenter()
+}
+
+// In this section you declare the dependencies for your production and test code
+dependencies {
+}
